@@ -39,6 +39,7 @@ transaksi kepada user
 
 4. Jika anda memasukkan PIN dengn benar, maka yang keluar akan seperti ini, dan melanjutkan ke frame selanjutnya.
 
+  ![Image 4](https://github.com/Ainnaya/MYBANK-NetBeans/blob/746f32d05bfbbe9e959f75172768f18cde6cf2f0/2---.JPG)
   ![Image 4](https://github.com/Ainnaya/MYBANK-NetBeans/blob/59076a6e0df9676d589d320c45e7ebda49515b28/4%20-%20output%20jika%20menginputkan%20PIN%20benar.JPG)
 
 
